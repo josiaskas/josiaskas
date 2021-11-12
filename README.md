@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/Php-black?style=for-the-badge&logo=php&logoColor=blue)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josiaskas&langs_count=12&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
