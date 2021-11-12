@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jkasongo@student.42quebec.com
 - ⚡ Fun fact: anime otaku
 
-![Stats!](https://github-readme-stats.vercel.app/api?username=josiaskas&count_private=true&theme=algolia)
+![Stats!](https://github-readme-stats.vercel.app/api?username=josiaskas&count_private=true)
 
 ![](https://img.shields.io/badge/C-404D59?style=for-the-badge)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
