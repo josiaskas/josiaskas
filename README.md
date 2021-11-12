@@ -5,9 +5,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning DevOps tools
 - 💬 Ask me about C and Node.js
 - 📫 How to reach me: jkasongo@student.42quebec.com
-- ⚡ Fun fact: anime otaku &theme=algolia
+- ⚡ Fun fact: anime otaku
 
-![Stats!](https://github-readme-stats.vercel.app/api?username=josiaskas&count_private=true)
+![Stats!](https://github-readme-stats.vercel.app/api?username=josiaskas&count_private=true&theme=algolia)
 
 ![](https://img.shields.io/badge/C-404D59?style=for-the-badge)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/Php-black?style=for-the-badge&logo=php&logoColor=blue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josiaskas&langs_count=20&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josiaskas&langs_count=20&count_private=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
