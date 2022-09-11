@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently waiting one piece leaks
 - 💬 Ask me about C and Node.js
 - 📫 How to reach me: jkasongo@student.42quebec.com
-- ⚡ Fun fact: anime otaku
+  
 
 ![Stats!](https://github-readme-stats.vercel.app/api?username=josiaskas&count_private=true&theme=algolia)
 
