@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently waiting one piece leaks
-- 💬 Ask me about C and Node.js
+- 💬 Ask me about C, Typescript and Node.js
 - 📫 How to reach me: jkasongo@student.42quebec.com
   
 
