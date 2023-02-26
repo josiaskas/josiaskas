@@ -2,8 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently waiting one piece leaks
-- 💬 Ask me about C, Typescript and Node.js
+- I'm Josias Mutshaila Kasongo aka **joKas**
+- 🌱 Currently waiting One Piece leaks and other manga 🗞
+- 💬 Ask me about C, C++, Typescript and Node.js
 - 📫 How to reach me: jkasongo@student.42quebec.com
   
 
