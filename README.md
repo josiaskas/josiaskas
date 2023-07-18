@@ -2,8 +2,8 @@
 
 I'm Josias Mutshaila Kasongo, but you can call me joKas. I'm a software developer with experience in C, C++, Typescript, and Node.js. When I'm not coding, you can usually find me reading manga, watching basketball games, or exploring new technology trends.
 
-- 🌱 Currently waiting One Piece leaks and other manga
-- 🏀 Still believing that Warriors will win 2023 Playoffs
+- 🌱 Currently waiting One Piece leaks and Hunter × Hunter
+- 🏀 Waiting for next Golden state warriors nba season
 - 💬 Ask me about anything related to C, C++, Typescript, and Node.js
 - 📫 How to reach me: jkasongo@student.42quebec.com
   
