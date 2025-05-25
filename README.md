@@ -19,9 +19,3 @@ I'm experienced with the following languages and technologies:
 ![](https://img.shields.io/badge/Php-black?style=for-the-badge&logo=php&logoColor=blue)
 ![](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### GitHub Stats
-
-<div style="display:flex;">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=josiaskas&count_private=true&theme=algolia" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josiaskas&langs_count=20&count_private=true&theme=algolia" />
-</div>
